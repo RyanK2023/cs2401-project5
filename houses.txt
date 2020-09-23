@@ -1,0 +1,4 @@
+nest wood 2 tree bird coin 2
+dam wood 4 forest beaver river 4
+cave stone 3 forest bear leaf deer
+burrow dirt 2 field rabbit 2 4hive bee_stuff 3 tree bear blue 4
